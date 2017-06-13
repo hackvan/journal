@@ -1,0 +1,3 @@
+- Adicionar mas material
+- Se debe revisar los quizes
+- La pestaña de recursos deberia estar primero que la de retos
